@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+    <title>开始页面</title>
+    <link rel="stylesheet" type="text/css" href="login.css"/>
+    <script language="javascript">
+    	function query(){
+    		 window.location.href="bookQuery.jsp";
+    	}
+    	function insert(){
+    		 window.location.href="bookInsert.jsp";
+    	}
+    </script>
+</head>
+<body>
+<div id="login_frame">
+	 <form method="post">
+
+        <div id="login_control">
+            <p><input type="button" id="btn_query" value="查询图书" onclick="query();">
+            <p><input type="button" id="btn_insert" value="插入图书" onclick="insert();">
+        </div>
+    </form>
+</div>
+</body>
+</html>
