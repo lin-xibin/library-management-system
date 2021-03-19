@@ -7,8 +7,8 @@
 - 控制器包括2个Servlet：BookQueryServlet根据请求参数查询图书信息、BookInsertServlet用来向数据库中插入数据。
 - 视图包括4个JSP页面：bookQuery.jsp显示查询页面、bookInsert.jsp显示插入页面、display.jsp显示查询结果页面和errorPage.jsp显示错误页面。
 
-![设计图](https://github.com/lin-xibin/The-World-of-Worms/blob/dab46b6546299969f098efc7d933059216e145cb/readme_image/1.jpg)
+![设计图](https://github.com/lin-xibin/The-World-of-Worms/blob/dab46b6546299969f098efc7d933059216e145cb/readme_image/2.jpg)
 
 ## 实现效果
 
-![登录界面](https://github.com/lin-xibin/The-World-of-Worms/blob/dab46b6546299969f098efc7d933059216e145cb/readme_image/2.jpg)
+![登录界面](https://github.com/lin-xibin/The-World-of-Worms/blob/dab46b6546299969f098efc7d933059216e145cb/readme_image/1.jpg)
