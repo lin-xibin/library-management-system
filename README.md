@@ -1,5 +1,5 @@
 ## 项目名称
-基于MVC架构和HTML+JSP+Servlst+JDBC等技术的简单图书管理系统
+基于MVC架构和HTML+JSP+Servlet+JDBC等技术的简单图书管理系统
 
 ## 设计思路
 通过数据源和DAO对象访问数据库。其中JavaBeans实现模型，访问数据库，Servlet实现控制器，JSP页面实现视图。
